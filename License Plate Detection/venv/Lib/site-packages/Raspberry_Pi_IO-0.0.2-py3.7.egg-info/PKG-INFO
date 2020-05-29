@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: Raspberry-Pi-IO
+Version: 0.0.2
+Summary: A Python service for remotely controlling GPIO.
+Home-page: https://github.com/exitcodezero/raspberry-pi-io
+Author: Brian Hines
+Author-email: brian@projectweekend.net
+License: LICENSE.txt
+Description: ==================
+        Raspberry-Pi-IO
+        ==================
+        
+        For documentation: https://github.com/exitcodezero/raspberry-pi-io
+        
+Platform: UNKNOWN
